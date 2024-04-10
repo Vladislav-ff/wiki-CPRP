@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/wooden-desk-with-a-mouse.jpg
+cover: >-
+  https://sun9-23.userapi.com/impg/kFBZQLEJMctZqPKYVxiNKmye9E4HlfHyDLDXDQ/LTXzTIYQ4sU.jpg?size=1280x853&quality=95&sign=c7cea2c1cfcd541a76e7c8d822194079&type=album
 coverY: 0
 layout:
   cover:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Программа для отправки писем
+# 💻 Программа для отправки писем
 
 ## [Код](https://github.com/Vladislav-ff/wiki-test/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0) программы
 
