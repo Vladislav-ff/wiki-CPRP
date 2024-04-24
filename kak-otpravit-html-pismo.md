@@ -11,4 +11,4 @@
 
 ## Отправить
 
-Лучше отправлять [с помощью python](https://app.gitbook.com/o/0FneWDzSHxsEy5VpntYV/s/tK0WpnOntHY9mix7QlDU/).&#x20;
+Лучше отправлять [с помощью python](<README (1).md>).&#x20;
